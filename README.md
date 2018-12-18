@@ -1,6 +1,6 @@
 # Tmux Themepack
 
-A pack of various themes for Tmux.
+A pack of various themes for Tmux, with some slight adjustments to the colors of the original repo.
 
 
 ## Installation
